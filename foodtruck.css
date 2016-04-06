@@ -1,0 +1,18 @@
+#NavBar {
+  text-align: center;
+  border: 2px solid black;
+  margin: 5px;
+}
+
+#maincolumn {
+  float: left;
+  width: 75%;
+  border: 2px solid black;
+  margin: 5px;
+}
+
+body {
+  padding: 5px;
+  margin: 5px;
+  background-color: #6E5334
+}
