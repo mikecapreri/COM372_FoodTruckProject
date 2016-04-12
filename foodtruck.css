@@ -41,5 +41,10 @@ a:active {
 body {
   padding: 5px;
   margin: 5px;
-  background-color: #6E5334
+  background-color: #6E5334;
+}
+
+img[src="images/green-food-truck.jpg"] {
+  float: right;
+  padding: 10px;
 }
