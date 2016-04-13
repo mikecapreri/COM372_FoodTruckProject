@@ -36,6 +36,12 @@ a:active {
   width: 75%;
   border: 2px solid black;
   margin: 5px;
+  padding: 20px;
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 30px;
 }
 
 body {
@@ -46,5 +52,11 @@ body {
 
 img[src="images/green-food-truck.jpg"] {
   float: right;
-  padding: 10px;
+  padding-left: 10px;
+}
+
+#legumes {
+  color: green;
+  font-size: 25px;
+  font-family: fantasy;
 }
