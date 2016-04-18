@@ -48,6 +48,15 @@ a:active {
   margin-top: 0;
 }
 
+#menucolumn {
+  float: left;
+  border: 2px solid black;
+  margin: 5px;
+  padding: 20px;
+  font-size: 20px;
+  margin-top: 0;
+}
+
 h3 {
   font-size: 30px;
 }
