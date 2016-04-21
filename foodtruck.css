@@ -151,6 +151,28 @@ a:active {
   background-color: #E1CAB0;
 }
 
+#truckcolumn {
+  float: left;
+  border: 2px solid black;
+  margin: 5px;
+  padding: 20px;
+  font-size: 20px;
+  margin-top: 0;
+  background-color: #957856;
+  width: 96%
+}
+
+#truck {
+  float: left;
+  width: 75%;
+  border: 2px solid black;
+  margin: 5px;
+  padding: 20px;
+  font-size: 20px;
+  margin-top: 0;
+  background-color: #E1CAB0;
+}
+
 h1 {
   font-size: 50px;
   padding: 0;
