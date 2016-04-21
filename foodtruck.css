@@ -65,6 +65,71 @@ a:active {
   background-color: #957856;
 }
 
+#Appetizers {
+  float: left;
+  border: 2px solid black;
+  margin: 5px;
+  padding: 20px;
+  font-size: 20px;
+  margin-top: 5px;
+  background-color: #E1CAB0;
+}
+
+#Appetizers p {
+  width: 32%;
+  float: left;
+  padding: 5px;
+}
+
+#Soups {
+  float: left;
+  border: 2px solid black;
+  margin: 5px;
+  padding: 20px;
+  font-size: 20px;
+  margin-top: 5px;
+  background-color: #E1CAB0;
+}
+
+#Soups p {
+  width: 32%;
+  float: left;
+  padding: 5px;
+}
+
+#Sandwiches {
+  float: left;
+  border: 2px solid black;
+  margin: 5px;
+  padding: 20px;
+  font-size: 20px;
+  margin-top: 5px;
+  background-color: #E1CAB0;
+}
+
+#Sandwiches p {
+  width: 35%;
+  float: left;
+  padding-left: 5px;
+}
+
+#BeanRice {
+  float: left;
+  border: 2px solid black;
+  margin: 5px;
+  padding: 20px;
+  font-size: 20px;
+  margin-top: 5px;
+  background-color: #E1CAB0;
+}
+
+#BeanRice p {
+  width: 30%;
+  float: left;
+  padding-left: 5px;
+  padding-right: 30px;
+}
+
 h1 {
   font-size: 50px;
   padding: 0;
